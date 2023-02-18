@@ -9,4 +9,4 @@ affiche(-10);
 affiche(10);
 affiche(0);
 
-//module.exports = checkSign
+module.exports = checkSign
