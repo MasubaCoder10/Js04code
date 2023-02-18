@@ -10,4 +10,4 @@ pairImpair(15);
 pairImpair(10);
 
 
-//module.exports = checkEvenOdd
+module.exports = checkEvenOdd
