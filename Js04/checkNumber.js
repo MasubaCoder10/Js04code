@@ -22,4 +22,4 @@ affiche(1);
 affiche(5);
 affiche(6);
 
-//module.exports = checkNumber
+module.exports = checkNumber
