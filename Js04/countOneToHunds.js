@@ -6,4 +6,4 @@ function affiche() { // declaration de la function affiche
 
 affiche(); // appelle de la function
 
-//module.exports = countOneToHunds
+module.exports = countOneToHunds
